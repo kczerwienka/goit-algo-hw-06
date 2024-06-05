@@ -1,0 +1,1 @@
+for  DFS algorythm starst to traverse into the graph, whereas BFS check every possibility on first node than on the next not traversed
